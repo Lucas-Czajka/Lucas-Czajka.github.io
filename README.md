@@ -2,9 +2,11 @@
 
 # About
 
-Welcome to my personal website! I'm [Your Name], a passionate [Your Profession] with a focus on [Your Focus Areas or Specialties]. My journey in [Field/Industry] has been shaped by my commitment to continuous learning and innovation. When I'm not working, you can find me [Your Hobbies or Interests].
+My name is Lucas Czajka, and I am a senior at UC Berkeley, pursuing a major in Data Science with a concentration in Neuroscience, alongside a minor in Industrial Engineering. I am deeply passionate about data science, statistics, and machine learning, and how these disciplines can be leveraged to drive industry innovation.
 
-Feel free to explore my site to learn more about my work, background, and projects.
+Throughout my academic journey and various internships, I have gained extensive experience in product analytics. I am dedicated to applying my skills to help organizations better understand their operations, enabling them to make data-driven decisions and implement meaningful changes.
+
+As I prepare to transition into the professional world, I am actively seeking a full-time position as a Data Scientist. I have a particular interest in the biotech and healthcare sectors, where I can combine my expertise in data science with my focus on neuroscience. However, I am also open to opportunities in other industries
 
 # Education
 
