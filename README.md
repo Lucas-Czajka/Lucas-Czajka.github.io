@@ -17,12 +17,8 @@ As I prepare to transition into the professional world, I am actively seeking a 
 - **Minor:** [Your Minor, if any]
 - **Relevant Coursework:** [List of Relevant Courses]
 
-## [Another Degree Name, if applicable]
-**[University Name]** | [Year of Graduation]
-
-- **Major:** [Your Major]
-- **Minor:** [Your Minor, if any]
-- **Relevant Coursework:** [List of Relevant Courses]
+## Courses
+CS188 - Introduction to Artificla Intelligence
 
 # Experience
 
