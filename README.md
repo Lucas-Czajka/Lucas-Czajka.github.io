@@ -10,28 +10,27 @@ As I prepare to transition into the professional world, I am actively seeking a 
 
 # Education
 
-## [Degree Name]
-**[University Name]** | [Year of Graduation]
+## UC Berkeley
+**College of Computing and Data Science** | 2021 - 2025
 
-- **Major:** [Your Major]
-- **Minor:** [Your Minor, if any]
-- **Relevant Coursework:** [List of Relevant Courses]
+- **Major:** B.A Data Science, Emphasis in Neuroscience
+
 
 ## Courses
 ### Computer Science
-CS61A - Structure and Interperation of Computer Programs
-CS61B - Data Structures
-CS188 - Introduction to Artificla Intelligence
+* CS61A - Structure and Interperation of Computer Programs
+* CS61B - Data Structures
+* CS188 - Introduction to Artificla Intelligence
 ### Data Science
-Data 100 - Principle Techniques in Data Science
-Data 101 - Data Engineering
-Data 140 - Probability for Data Science
-Data 144 - Data Mining and Analytics
+* Data 100 - Principle Techniques in Data Science
+* Data 101 - Data Engineering
+* Data 140 - Probability for Data Science
+* Data 144 - Data Mining and Analytics
 ### Other
-MCB 61 - Brain, Mind, and Behavior
-BIOE 10 - Biomedicine for Engineers
-COGSCI 131 - Computational Models of Cognition
-IEOR 151 - Logistics Network Design and Supply Chain Management
+* MCB 61 - Brain, Mind, and Behavior
+* BIOE 10 - Biomedicine for Engineers
+* COGSCI 131 - Computational Models of Cognition
+* IEOR 151 - Logistics Network Design and Supply Chain Management
 
 
 
