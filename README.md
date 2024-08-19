@@ -18,7 +18,22 @@ As I prepare to transition into the professional world, I am actively seeking a 
 - **Relevant Coursework:** [List of Relevant Courses]
 
 ## Courses
+### Computer Science
+CS61A - Structure and Interperation of Computer Programs
+CS61B - Data Structures
 CS188 - Introduction to Artificla Intelligence
+### Data Science
+Data 100 - Principle Techniques in Data Science
+Data 101 - Data Engineering
+Data 140 - Probability for Data Science
+Data 144 - Data Mining and Analytics
+### Other
+MCB 61 - Brain, Mind, and Behavior
+BIOE 10 - Biomedicine for Engineers
+COGSCI 131 - Computational Models of Cognition
+IEOR 151 - Logistics Network Design and Supply Chain Management
+
+
 
 # Experience
 
