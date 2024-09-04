@@ -1,26 +1,31 @@
 # Site Settings
 title: Lucas Czajka
-description: A brief description of your site.
-baseurl: "" # Leave this empty if deploying to root of a domain, otherwise use "/your-repo-name"
-url: "https://your-username.github.io" # Your website URL (GitHub Pages URL or custom domain)
+baseurl: "" # Leave this empty for root domain deployment
+url: "https://lucas-czajka.github.io/"
 
-# Author
+# Author Info
 author:
-  name: Your Name
-  email: your-email@example.com
+  name: Lucas Czajka
+  email: lucasczajka@berkeley.edu
 
-# Build Settings
-theme: minima # Using the default Minima theme
+# Theme and Plugins
+theme: minima
 markdown: kramdown
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
 
-# Defaults for your posts
-defaults:
-  - scope:
-      path: "" # Applies to all files
-      type: posts
-    values:
-      layout: post
-      author: Your Name
+# Navigation for Sections
+nav_links:
+  - title: "About Me"
+    url: /about-me
+  - title: "Projects"
+    url: /projects
+  - title: "Experience"
+    url: /experience
+  - title: "Contact"
+    url: /contact
 
 # Exclude from processing
 exclude:
@@ -29,22 +34,10 @@ exclude:
   - node_modules
   - vendor
 
-# Enable GitHub Pages plugin
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-
-# Social Media Links (Optional)
-social_links:
-  twitter: https://twitter.com/yourusername
-  github: https://github.com/yourusername
-  linkedin: https://linkedin.com/in/yourusername
-
-# Configuration for SEO Tag Plugin
+# SEO Settings
 seo:
   title: Your Site Title
   description: A brief description of your site.
   url: "https://your-username.github.io"
   twitter: yourusername
   type: website
-
