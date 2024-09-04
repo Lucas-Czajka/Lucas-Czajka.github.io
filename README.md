@@ -36,30 +36,49 @@ As I prepare to transition into the professional world, I am actively seeking a 
 
 # Experience
 
-## [Job Title]
-**[Company Name]** | [Start Date] - [End Date]
+## Data Science and ML Intern
+**Infopro Digital ** | Jun 2024 - Aug 2024
 
-- Description of your role and responsibilities
-- Key achievements or projects you worked on
+- Developed ML-based churn analysis models to identify key reasons for customer churn, identified 250+ at risk businesses,
+enabling the team to implement actionable items to reduce churn.
+- Built a model to analyze usage patterns between two software platforms, identifying optimal features through A/B testing and
+assessing customer behavior after migrating to a new database.
 
-## [Another Job Title]
-**[Company Name]** | [Start Date] - [End Date]
+## Data Science Intern
+**SeedLegals** | May 2023 - Aug 2023
 
-- Description of your role and responsibilities
-- Key achievements or projects you worked on
+- Developed software tool leveraging python and SQL to analyze key term sheet desks, delivering real-time feedback on
+performance on over 55 key deal terms for founders and investor; now serving 40,000 users
+- Utilized DBT to develop and build a new part of the schema by handling complex joins to ensure data integration and consistency
 
 # Projects
 
-## [Project Name]
-**Description:** Brief description of the project, including goals, technologies used, and your contributions.
+## Predicting Wine Quality + Price
+**Description:** Analyzed data sets from 5 wine producing regions to predict wine ratings and prices using machine learning techniques, including
+neural networks and ensemble methods and assessing their effectiveness, achieving an 83% accuracy.
 
-- **Technologies Used:** [List of Technologies]
+- **Technologies Used:** Python, Scikit-Learn, Tensorflow
+- **Link to Project:** https://github.com/Lucas-Czajka/Predicting-Wine-Quality
+
+## 2D World
+**Description:** Led full cycle development of a Java engine for generating 2D tile-based explorable worlds, with features such as lighting, score
+and lives, including UI for world creation, saving/loading and replaying movements.
+
+- **Technologies Used:** Java
 - **Link to Project:** [Project URL]
 
-## [Another Project Name]
-**Description:** Brief description of the project, including goals, technologies used, and your contributions.
+## N-Gram Explorer
+**Description:** Developed a browser-based tool for exploring the history of word usage in published texts, with a Java-based backend utilizing
+Time Series and nested TreeMaps for data analysis, and a front end using HTML for user input collection and output.
 
-- **Technologies Used:** [List of Technologies]
+- **Technologies Used:** Java, HTML
+- **Link to Project:** 
+
+## Predicting House Prices
+**Description:** Conducted exploratory data analysis to analyze inequities in housing prices in Cook County, Illinois. 
+Predicted housing prices using a multiple linear regression model in Cook County, Illinois
+
+- **Technologies Used:** Python, Scikit-Learn,
 - **Link to Project:** [Project URL]
 
 ---
