@@ -1,5 +1,5 @@
 # Site Settings
-title: Your Site Title
+title: Lucas Czajka
 description: A brief description of your site.
 baseurl: "" # Leave this empty if deploying to root of a domain, otherwise use "/your-repo-name"
 url: "https://your-username.github.io" # Your website URL (GitHub Pages URL or custom domain)
