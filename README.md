@@ -1,4 +1,3 @@
-# Lucas-Czajka.github.io
 
 # About
 
